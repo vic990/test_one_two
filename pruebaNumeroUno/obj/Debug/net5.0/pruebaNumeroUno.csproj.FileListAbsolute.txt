@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\bin\Debug\net5.0\pruebaNumeroUno.exe
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\bin\Debug\net5.0\pruebaNumeroUno.deps.json
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\bin\Debug\net5.0\pruebaNumeroUno.runtimeconfig.json
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\bin\Debug\net5.0\pruebaNumeroUno.runtimeconfig.dev.json
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\bin\Debug\net5.0\pruebaNumeroUno.dll
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\bin\Debug\net5.0\ref\pruebaNumeroUno.dll
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\bin\Debug\net5.0\pruebaNumeroUno.pdb
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.AssemblyInfo.cs
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.dll
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\ref\pruebaNumeroUno.dll
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.pdb
+C:\Users\victo\source\repos\pruebaNumeroUno\pruebaNumeroUno\obj\Debug\net5.0\pruebaNumeroUno.genruntimeconfig.cache
